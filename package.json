@@ -1,0 +1,25 @@
+{
+  "name": "tailwindcss-hyphens",
+  "version": "0.1.0",
+  "description": "Plugin for Tailwind CSS to create utility classes for hyphens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippbosch/tailwindcss-hyphens.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwindcss-plugin",
+    "hyphens",
+    "hyphenation"
+  ],
+  "author": "Philipp Bosch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philippbosch/tailwindcss-hyphens/issues"
+  },
+  "homepage": "https://github.com/philippbosch/tailwindcss-hyphens#readme"
+}
