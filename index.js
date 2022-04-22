@@ -9,7 +9,7 @@ module.exports = function hyphens({
     'auto': 'auto',
   });
 
-  const variants = config('variants.hyphens', []);
+  const variants = config('variants.hyphens', ['responsive']);
   const utilities = {};
 
   for (const key in values) {
